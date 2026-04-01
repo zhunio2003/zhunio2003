@@ -1,9 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Backend+Developer%2C+from+Ecuador" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:00f0ff&height=180&section=header&text=zhunio&fontSize=50&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&desc=Backend%20Developer%2C%20from%20Ecuador&descSize=16&descColor=8b949e&descAlignY=55" width="100%"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-angel-zhunio-remache-753298330">
+  <a href="https://linkedin.com/in/zhunio">
     <img src="https://img.shields.io/badge/-LinkedIn-1d1f21?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -22,12 +22,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=450&lines=Client+%E2%86%92+API+Gateway;Microservices+Architecture;ML+Engine+Processing;Decision+System+(Allow+%2F+Deny)" />
-</p>
-
----
-
 #### 🛠 Stack
 
 <p align="center">
@@ -41,3 +35,5 @@
 <p align="center">
   <sub>El Oro, Ecuador 🇪🇨</sub>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:00f0ff&height=100&section=footer" width="100%"/>
