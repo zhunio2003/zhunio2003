@@ -4,19 +4,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-angel-zhunio-remache-753298330">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" />
   </a>
   &nbsp;
   <a href="https://twitter.com/_zhunio16">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="30" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" />
   </a>
   &nbsp;
   <a href="https://instagram.com/_zhunio">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" />
   </a>
   &nbsp;
   <a href="https://youtube.com/@zhunio16">
-    <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" />
+    <img src="https://skillicons.dev/icons?i=youtube&theme=dark" height="40" />
   </a>
 </p>
 
