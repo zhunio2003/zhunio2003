@@ -3,20 +3,20 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/zhunio">
-    <img src="https://img.shields.io/badge/-LinkedIn-1d1f21?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/miguel-angel-zhunio-remache-753298330/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://twitter.com/_zhunio16">
-    <img src="https://img.shields.io/badge/-@__zhunio16-1d1f21?style=flat&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/@__zhunio16-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://instagram.com/_zhunio">
-    <img src="https://img.shields.io/badge/-@__zhunio-1d1f21?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/@__zhunio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://youtube.com/@zhunio16">
-    <img src="https://img.shields.io/badge/-@zhunio16-1d1f21?style=flat&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/@zhunio16-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
