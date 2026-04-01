@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-angel-zhunio-remache-753298330/">
+  <a href="https://www.linkedin.com/in/miguel-angel-zhunio-remache-753298330">
     <img src="https://img.shields.io/badge/-LinkedIn-1d1f21?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
